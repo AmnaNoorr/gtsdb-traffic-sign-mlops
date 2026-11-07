@@ -2,15 +2,6 @@
 __pycache__/
 *.py[cod]
 *$py.class
-.venv/
-venv/
-*.env
-
-# Model weights
-weights/*.pt
-
-# Jupyter Notebook Checkpoints
-.ipynb_checkpoints/
 
 __pycache__/
 *.pyc
